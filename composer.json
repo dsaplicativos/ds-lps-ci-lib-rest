@@ -1,5 +1,5 @@
 {
-    "name": "dsapps/lib/rest",
+    "name": "dsapps/rest",
     "type": "codeigniter-library",
     "homepage": "https://dsaplicativos.com.br",
     "license": "MIT",
